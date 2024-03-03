@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-⚡ Me chamo Vitor, tenho 18 anos.<br><br>🚀Sempre estou em buscar de novas oportunidades <br>para desenvolver minha carreira na área de tecnologia<br><br>💻Estudando Engenharia de Software
+⚡ Me chamo Vitor, tenho 18 anos.<br><br>🚀Sempre estou em busca de novas oportunidades <br>para desenvolver minha carreira na área de tecnologia.<br><br>💻 Estudando Engenharia de Software.
 
 
 ## 🌐 Redes Sociais:
